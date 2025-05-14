@@ -4,8 +4,8 @@ using System.Collections.Generic;
 
 public class Tile : MonoBehaviour
 {
-    public Tile[] upNeighbourgs;
-    public Tile[] rightNeighbourgs;
-    public Tile[] leftNeighbourgs;
-    public Tile[] downNeighbourgs;
+    public Tile[] upNeighbours;
+    public Tile[] rightNeighbours;
+    public Tile[] leftNeighbours;
+    public Tile[] downNeighbours;
 }
